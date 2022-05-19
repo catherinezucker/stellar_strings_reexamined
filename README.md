@@ -1,2 +1,3 @@
 # stellar_strings_reexamined
-Repository reproducing the results published in Zucker, Peek, &amp; Loebman 2022. 
+This repository reproduces Table 1 and the data behind the figures for Figure 1, 2, 3, and 4 in Zucker, Peek & Loebman 2022. Required dependencies to run the Jupyter Notebook include both [astropy](https://docs.astropy.org/en/stable/install.html) and [astroquery](https://astroquery.readthedocs.io/en/latest/#installation)
+
