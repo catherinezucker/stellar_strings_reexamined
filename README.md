@@ -6,3 +6,5 @@ Required dependencies to run the Jupyter Notebook include both [astropy](https:/
 
 Most of the data are downloaded directly from Vizier via the astroquery package, with the exception of the data from [Manea, Hawkins, & Mass 2022]( https://doi.org/10.1093/mnras/stac236) (Manea2022_Supplementary_Table.fits and Manea2022_M67_dispersion.fits) which contains the intrinsic abundance information for a sample of strings and the M67 cluster, respectively. We derive these tables from the Supplementary Data file provided in [Manea, Hawkins, & Mass 2022]( https://doi.org/10.1093/mnras/stac236) which is availale for download in the online version of their published articled.  
 
+If you have questions about this repository, please contact Catherine Zucker (czucker@stsci.edu).
+
