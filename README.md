@@ -1,6 +1,6 @@
 # Disconnecting the Dots: Re-examining the Nature of Stellar "Strings" in the Milky Way
 
-This repository reproduces Table 1 and the data behind the figures for Figure 1, 2, 3, and 4 in Zucker, Peek & Loebman 2022, showing that the stellar strings from [Kounkel & Covey 2019](https://doi.org/10.3847/1538-3881/ab339a) are largely inconsistent with being physical objects whose members share a common origin. 
+This repository reproduces Table 2 and the data behind the figures for Figure 1, 2, 3, 4, and 5 in Zucker, Peek & Loebman 2022, showing that the stellar strings from [Kounkel & Covey 2019](https://doi.org/10.3847/1538-3881/ab339a) are largely inconsistent with being physical objects whose members share a common origin. 
 
 Required dependencies to run the Jupyter Notebook include both [astropy](https://docs.astropy.org/en/stable/install.html) and [astroquery](https://astroquery.readthedocs.io/en/latest/#installation). 
 
